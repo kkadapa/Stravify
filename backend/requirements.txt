@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+langchain
+langchain-google-genai
+langchain-groq
+langchain-experimental
+supabase
+httpx
+python-dotenv
+pydantic
