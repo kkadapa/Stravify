@@ -2,7 +2,7 @@
 
 Stravify is an AI-powered analytics dashboard that allows runners to chat with their Strava data using natural language. Built with a modern React frontend and a robust FastAPI backend, it leverages Google's Gemini models via LangChain to analyze your running history dynamically.
 
-![Stravify Demo](/Users/nathandrake/Documents/Development/ReactProjects/Stravify/frontend/demo.png)
+![Stravify Demo](frontend/demo.png)
 
 ## 🚀 Features
 
